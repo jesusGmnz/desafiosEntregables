@@ -1,0 +1,11 @@
+[
+	{
+		"id": 1,
+		"title": "jabon manzana",
+		"description": "aroma a manzana",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0001",
+		"stock": "20"
+	}
+]
