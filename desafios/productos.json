@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "jabon manzana",
+		"description": "aroma a manzana",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0001",
+		"stock": "20"
+	},
+	{
+		"id": 2,
+		"title": "jabon Mandarina",
+		"description": "aroma a mandarina",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0002",
+		"stock": "20"
+	}
+]
