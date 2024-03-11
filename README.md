@@ -1,7 +1,7 @@
 git actualizado 
 el proyecto tiene dos carpetas:
-**desafios
-**desafio3
+**desafios**
+**desafio3**
 
 en la carpeta "desafios" estan el desafio 1 y 2
 
