@@ -1,6 +1,7 @@
 const fs = require('fs');
 
 class ProductManager {
+    #id = 0;
     constructor(path) {
         this.productos = [];
         this.path = path;
@@ -27,7 +28,7 @@ class ProductManager {
             }
 
             const producto = {
-                id: this.productos.length + 1,
+                id: this.#id++,
                 title,
                 description,
                 price,
@@ -130,3 +131,4 @@ const Run = async () => {
 };
 
 Run();
+

@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "jabon manzana",
+		"description": "aroma a manzana",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0001",
+		"stock": "20"
+	},
+	{
+		"id": 2,
+		"title": "jabon Mandarina",
+		"description": "aroma a mandarina",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0002",
+		"stock": "20"
+	},
+    {
+		"id": 3,
+		"title": "jabon cafe",
+		"description": "aroma a cafe",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0003",
+		"stock": "20"
+	},
+	{
+		"id": 4,
+		"title": "jabon aloevera",
+		"description": "aroma a aloevera",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0004",
+		"stock": "20"
+	},
+    {
+		"id": 5,
+		"title": "jabon manzanilla",
+		"description": "aroma a manzanilla",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0005",
+		"stock": "20"
+	},
+	{
+		"id": 6,
+		"title": "jabon almendra",
+		"description": "aroma a almendra",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0006",
+		"stock": "20"
+	},
+    {
+		"id": 7,
+		"title": "jabon avena",
+		"description": "aroma a avena",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0007",
+		"stock": "20"
+	},
+	{
+		"id": 8,
+		"title": "jabon Maracuya",
+		"description": "aroma a maracuya",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0008",
+		"stock": "20"
+	},
+    {
+		"id": 9,
+		"title": "jabon rosa",
+		"description": "aroma a rosa",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0009",
+		"stock": "20"
+	},
+	{
+		"id": 10,
+		"title": "jabon lavanda",
+		"description": "aroma a lavanda",
+		"price": "1000",
+		"thumbnail": "sin imagen",
+		"code": "0010",
+		"stock": "20"
+	}
+]

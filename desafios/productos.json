@@ -1,6 +1,6 @@
 [
 	{
-		"id": 1,
+		"id": 0,
 		"title": "jabon manzana",
 		"description": "aroma a manzana",
 		"price": "1000",
@@ -9,7 +9,7 @@
 		"stock": "20"
 	},
 	{
-		"id": 2,
+		"id": 1,
 		"title": "jabon Mandarina",
 		"description": "aroma a mandarina",
 		"price": "1000",
