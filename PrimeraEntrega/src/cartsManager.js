@@ -2,12 +2,12 @@ import fs from 'fs';
 
 export default class CartManager {
     constructor(filepath) {
-        this.id = this.cartId();
         this.path = filepath;
         this.cart = this.loadCarts()
+        this.id = this.cartsId();
     }
 
-    cartId() { 
+    cartsId() {
         const maxId = this.cart.reduce((max, cart) => (cart.id > max ? cart.id : max), 0);
         return maxId + 1;
     }

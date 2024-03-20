@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "jabon manzana",
+    "description": "aroma a manzana",
+    "code": "0001",
+    "price": "1000",
+    "status": true,
+    "stock": "20",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "jabon cafe",
+    "description": "aroma a cafe",
+    "code": "0003",
+    "price": "1000",
+    "status": true,
+    "stock": "20",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "editado",
+    "description": "aroma a aloevera",
+    "code": "0008",
+    "price": "1000",
+    "status": true,
+    "stock": "20",
+    "thumbnails": []
+  }
+]

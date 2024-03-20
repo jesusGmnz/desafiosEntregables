@@ -2,9 +2,9 @@ import fs from 'fs';
 
 export default class ProductManager {
     constructor(filePath) {
-        this.id = this.productId();
         this.path = filePath;
         this.products = this.loadProducts();
+        this.id = this.productId();
     }
 
     loadProducts() {
@@ -26,7 +26,7 @@ export default class ProductManager {
         }
     }
 
-    productId() { // Para evitar que se repita el ID al ejecutar mas de una vez el script: Chequea el ID mas alto de la lista de productos y le agrega +1;
+    productId() {
         const maxId = this.products.reduce((max, product) => (product.id > max ? product.id : max), 0);
         return maxId + 1;
     }
